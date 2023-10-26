@@ -41,4 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Scrinshot
 
-![sc](/screenshot/Cuplikan layar 2023-10-25 135852.png)
+![sc](/screenshot/berhasil.png)
