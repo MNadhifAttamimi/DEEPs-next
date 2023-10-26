@@ -41,4 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Scrinshot
 
-![Screenshot](/screenshot//berhasil.png)
+![Screenshot](/screenshot/berhasil.png)
